@@ -1,0 +1,4 @@
+2021-12-03	18:30	Indianapolis	Men's Clothing	158.28	MasterCard
+2003-09-30	16:10	Santa Ana	DVDs	414.09	MasterCard
+2030-02-02  10:50	Baltimore	DVDs	467.3	Visa
+2002-10-01	16:09	Santa Ana	Video Games	144.73	Visa

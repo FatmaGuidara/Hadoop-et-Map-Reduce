@@ -1,0 +1,4 @@
+2012-12-31	17:59	Indianapolis	Men's Clothing	158.28	MasterCard
+2012-12-31	17:59	Santa Ana	DVDs	414.09	MasterCard
+2012-12-31	17:59	Baltimore	DVDs	467.3	Visa
+2012-12-31	17:59	Santa Ana	Video Games	144.73	Visa
